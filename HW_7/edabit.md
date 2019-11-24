@@ -70,6 +70,7 @@ Solution: https://www.dropbox.com/home/HW_7/funcProg?preview=FP1.png
 2. URL: https://edabit.com/challenge/cada8J3AWGRhwQhkk
 
 Solution: https://www.dropbox.com/home/HW_7/funcProg?preview=FP2.png
+
 3. URL: 
 Solution:
 4. URL: 
@@ -78,8 +79,10 @@ Solution:
 Solution:
 
 Scope
-1. URL: 
-Solution:
+1. URL: https://edabit.com/challenge/wTQpSEZPpPdyLtK9k
+
+Solution: https://www.dropbox.com/home/HW_7?preview=scope1.png
+
 2. URL: 
 Solution:
 3. URL: 
