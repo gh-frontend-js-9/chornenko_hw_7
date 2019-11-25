@@ -1,23 +1,23 @@
 Condition
 1. URL: https://edabit.com/challenge/Ju7AK9rAGjz86hjxo
 
-Solution: https://www.dropbox.com/home/HW_7/condition?preview=condition1.png
+Solution: https://www.dropbox.com/s/la1zcewohuzchhr/condition1.png?dl=0
 
 2. URL: https://edabit.com/challenge/xXJLZry3vYd4erPct
 
-Solution: https://www.dropbox.com/home/HW_7/condition?preview=condition2.png
+Solution: https://www.dropbox.com/s/mqwvxkuqnaer2oz/condition2.png?dl=0
 
 3. URL: https://edabit.com/challenge/at7jF9Y7SmPGyD92u
 
-Solution: https://www.dropbox.com/home/HW_7/condition?preview=condition3.png
+Solution: https://www.dropbox.com/s/ulahi5kwhiqpe74/condition3.png?dl=0
 
 4. URL: https://edabit.com/challenge/2dcXsuTD68iRK5MiT
 
-Solution: https://www.dropbox.com/home/HW_7/condition?preview=condition4.png
+Solution: https://www.dropbox.com/s/r020m9clo2bbudv/condition4.png?dl=0
 
 5. URL: https://edabit.com/challenge/ng4KKFW4CBwteJdDH
 
-Solution: https://www.dropbox.com/home/HW_7/condition?preview=conition5.png
+Solution: https://www.dropbox.com/s/7r5ca9qtfpto9of/conition5.png?dl=0
 
 Array
 1. URL: https://edabit.com/challenge/Q3n42rEWanZSTmsJm
